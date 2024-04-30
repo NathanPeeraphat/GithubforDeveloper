@@ -32,8 +32,5 @@ Javascript, HTML, CSS...
 😄 Pronouns...
 
 ⚡️ Fun fact...
-=======
-# GithubforDeveloper
-zZz
->>>>>>> Stashed changes
 
+>>>>>>> Stashed changes
